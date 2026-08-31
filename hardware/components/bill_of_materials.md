@@ -14,3 +14,7 @@
 | 220 Ω Resistor | 4 | LED current limiting | 1/4W |
 | 830-point Breadboard | 1 | Component mounting | Standard breadboard |
 | Jumper Cables | 25–30 | Wiring connections | Male-to-male assorted |
+
+## Estimated Cost
+
+Approximately ₹1,800–₹2,800 INR.
