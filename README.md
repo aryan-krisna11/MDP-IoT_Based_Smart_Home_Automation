@@ -2,7 +2,6 @@
 
 An IoT-based smart room automation system using **ESP8266 NodeMCU** for continuous presence detection, environmental monitoring, relay-based control, and local status visualization.
 
-![Smart Room Hub](assets/images/final-system.jpg)
 
 ## 📌 Overview
 
@@ -66,8 +65,6 @@ When nobody is present, both temperature indicators remain OFF.
 This hierarchical control prevents unnecessary temperature-related relay activation in an unoccupied room.
 
 ## 🏗️ System Architecture
-
-![System Architecture](assets/diagrams/system-architecture.png)
 
 ### Main Subsystems
 
